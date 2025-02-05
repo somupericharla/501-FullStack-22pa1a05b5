@@ -51,31 +51,54 @@ This system is designed to make task tracking effortless and productive for both
 
 Technical Details
 APIs Used
+
 Task API – Handles task creation, updates, and deletion.
+
 Authentication API – Manages user login, logout, and session handling.
+
 Notification API (If Implemented) – Sends alerts for approaching deadlines.
+
 Database Structure
+
 The project includes a structured database schema for managing users, tasks, and categories.
 
 users – Stores user credentials and profile details.
+
 tasks – Contains task information (title, description, priority, status, deadline, etc.).
+
 categories – Stores different task categories like Work, Personal, Urgent, etc.
+
 task_assignments – If tasks can be assigned to other users or shared within teams.
+
 Technologies & Packages Used
+
 Frontend:
+
 react – Core React library for building the UI.
+
 vite – Lightning-fast build tool for better performance.
+
 react-router-dom – Enables smooth navigation across pages.
+
 axios – Manages API requests efficiently.
+
 tailwindcss – Provides a modern, responsive design framework.
+
 Backend (If Implemented):
+
 express – Handles API requests and business logic.
+
 jsonwebtoken – Manages authentication through JWT.
+
 bcryptjs – Encrypts passwords securely.
+
 cors – Enables cross-origin requests between frontend and backend.
+
 This stack ensures the Task Management System is fast, secure, and scalable.
 
+
 My Experience in Building This Project
+
 What I Enjoyed the Most:
 
 🚀 Building the Core Task Management Logic – Implementing CRUD operations and ensuring smooth task updates was an exciting challenge.
