@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { Toaster } from 'react-hot-toast';
 import Auth from './components/Auth';
