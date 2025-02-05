@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { createTask, getTasks, updateTask, deleteTask } from '../lib/db';
 import { PlusCircle, Edit2, Trash2 } from 'lucide-react';
