@@ -1,5 +1,5 @@
-#Task Management System
-Project Overview
+Task Management System
+
 The Task Management System is a full-stack web application designed to help users organize, track, and manage tasks efficiently. This system allows users to create, edit, and categorize tasks, set priorities, assign deadlines, and monitor progress through a structured dashboard.
 
 The application is built using React (Vite) for the frontend, TypeScript for type safety, and Tailwind CSS for modern, responsive design. It focuses on delivering an intuitive user experience, ensuring tasks are easy to manage while offering advanced features like task filtering, real-time updates, and secure authentication.
@@ -7,6 +7,7 @@ The application is built using React (Vite) for the frontend, TypeScript for typ
 This project is suitable for individuals and teams who need an effective way to organize their work, boost productivity, and meet deadlines seamlessly.
 
 Use Cases
+
 1. User Authentication & Secure Access
 Users can sign up and log in securely.
 Authentication is handled through JWT tokens or session-based authentication.
