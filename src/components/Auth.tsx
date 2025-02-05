@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { signIn, signUp } from '../lib/db';
 import toast from 'react-hot-toast';
